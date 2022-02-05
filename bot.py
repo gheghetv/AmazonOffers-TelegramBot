@@ -9,8 +9,8 @@ import random
 # ********** Author: Samir Salman **********
 
 # ***** Telegram TOKEN and parameters Definition *****
-TOKEN = '<YOUR TELEGRAM TOKEN>'
-CHANNEL_NAME = '<YOUR TELEGRAM CHANNEL NAME>'
+TOKEN = '5162394038:AAERAo4339NmWpGHaKivRcKJ2NQO4zcV1M0'
+CHANNEL_NAME = '@OfferteBomba_Amazon'
 
 # ***** BOT ACTIVITY TIME *****
 MIN_HOUR = 9
